@@ -1,0 +1,79 @@
+.logo{
+    width: 100px;
+    height:25px;
+    transform: scale(0.8);
+    border-radius: 0;
+}
+.category{
+    color: black;
+    font-size: 13px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding: 0.7rem;
+    
+}
+.main-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: #f7f8f7;
+   padding: 0.5rem;
+  
+}
+.category-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchbox{
+    background-color: #ecedeb;
+    display: flex;
+    border: 1px black ecedeb;
+    height: 2rem;
+    width: max-content;
+    margin-right: 4rem;
+}
+.input-header{
+    background-color: #ecedeb;
+    border: none;
+    width: 20rem;
+}
+.searchicon{
+    height: 1.6rem;
+    width: 1.6rem;
+}
+.profile{
+    color: black;
+    font-size: 13px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    padding: 0.7rem;
+    margin-left: 8rem;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.blackBox{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 11px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem 0.5rem;
+}
+.services-headers{
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border{
+    border: 5px solid blue;
+    height: 30px;
+    width: 100%;
+    background-color: blue;
+}

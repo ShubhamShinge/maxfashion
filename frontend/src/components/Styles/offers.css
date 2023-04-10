@@ -1,0 +1,8 @@
+
+.carousel-item > img {
+    width:100px;
+    height:400px;
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+  } 

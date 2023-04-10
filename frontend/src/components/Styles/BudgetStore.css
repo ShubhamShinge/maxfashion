@@ -1,0 +1,23 @@
+.budgetSore-main{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+.budgetStore-Card{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.font-BudgetStore{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: ProximaNova-Regular,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+    margin-bottom: 24px;
+}

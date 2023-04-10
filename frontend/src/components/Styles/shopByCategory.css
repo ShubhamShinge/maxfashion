@@ -1,0 +1,28 @@
+.font-categories{
+    font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+color: #000000;
+display: display;
+justify-content: center;
+align-items: center;
+font-family: ProximaNova-Regular,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+margin-bottom: 24px;
+padding-left: 6rem;
+}
+.main-category{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.offerbyrate{
+   display: flex;
+   justify-content: space-evenly;
+
+}
+.offers-categories{
+    height: 20rem;
+    width: 20rem;
+
+}

@@ -1,0 +1,101 @@
+.Feedback{
+    height:max-content;
+    width:max-content;
+    padding: 3rem 1rem 2rem 1rem;
+    border: 2px solid rgb(6, 6, 6);
+    background-color: white;
+    /* margin-left: 20rem;
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+.button-1{
+    background-color: white;
+    border: transparent;
+    cursor: pointer;
+}
+.button-X{
+border: transparent;
+background-color:white ;
+font-size:1.5rem;
+margin-left: 29.5rem;
+cursor: pointer;
+}
+.signup_body{
+    margin-top: -2rem;
+    margin-left: 5rem;
+    margin-right: 4rem;
+}
+
+.message{
+    color: rgb(146, 147, 145);
+    font-size:small;
+    padding-top: 15px;
+}
+.signup{
+    margin-bottom: -20px;
+}
+.signup_content{
+    font-size:xx-large;
+    font-weight: normal;
+}
+.login-buttons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.mobileNumber{
+    width: 100%;
+    display: grid;
+    
+}
+.mobile{
+    font-size: small;
+}
+.groupinputs_login{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    
+}
+.groupinputs_signup{
+    display: flex;
+    flex-direction: column;
+    
+}
+.input_signup{
+    height: 2.2rem;
+    margin-top: 0.5rem;
+    width: 10rem;
+}
+.input_login{
+    margin-top: 1rem;
+    height: 2.2rem;
+    width: 15rem;
+}
+.footer-modal{
+   padding-top: 10px;
+    font-size:15px;
+}
+.line{
+    background-color:rgb(174, 172, 172);
+}
+.button-continue{
+    /* margin-left: 15rem; */
+    margin-top: 1rem;
+    padding: 0.5rem 4rem;
+    color:white ;
+    background-color:#303ab2;
+    border: transparent;
+}
+
+
+
+
+

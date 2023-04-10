@@ -1,0 +1,155 @@
+.subscribeanddownload{
+    display: flex;
+    padding-top: 2rem;
+  }
+  .subscribe{
+    margin-left: 1rem;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .Download{
+    margin-left:18rem;
+    font-size: x-large;
+    font-weight: bolder;
+  }
+  .tag1{
+    font-size: medium;
+    font-weight: lighter;
+    color: #929391;
+    padding-top: 0.5rem;
+  }
+  .tag2{
+    font-size: medium;
+    font-weight: lighter;
+    color: #929391;
+    padding-top: 0.5rem;
+  }
+  .searchbar{
+    border: none;
+    padding-inline-start: 4rem;
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    background-color: #f8f8f8;
+    width: 18rem;
+    border-radius: 0.2rem;
+    height: 3rem;
+  }
+  .Searchtext{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-left: -1rem;
+    margin-top: 2.4rem;
+    width: 9rem;
+    height: 3.3rem;
+  }
+  .images{
+    display: flex;
+  }
+  #img1{
+    width: 12rem;
+    height: 8rem;
+    margin-left: 10rem;
+  }
+  #img2{
+    width: 11rem;
+    height: 4.5rem;
+    margin-top: 1.7rem;
+    margin-left: 2rem;
+  }
+  .contents{
+    display: flex;
+    padding-top: 2rem;
+  }
+  .women{
+    font-size: medium;
+    margin-left: 3rem;
+  }
+  .men{
+    margin-left: 8rem;
+  }
+  .boys{
+    margin-left: 10rem;
+  }
+  .girls{
+    margin-left: 10rem;
+  }
+  .about{
+    display: flex;
+    margin-top: 2rem;
+  }
+  .about1{
+    margin-left: 3rem;
+  }
+  .help{
+    margin-left: 10rem;
+  }
+  #phoneicon{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 3rem;
+  }
+  .phonesicon{
+    display: flex;
+    padding-top: 1rem;
+  }
+  .phoneiconscontent{
+    margin-top: -1.5rem;
+    margin-left: 2rem;
+  }
+  #helpicon{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 2rem;
+  }
+  #fbicon{
+    width: 2rem;
+    height: 1.5rem;
+    margin-left: 10rem;
+    margin-top: 0.5rem;
+  }
+  #twittericon{
+    width: 2rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+  }
+  #instagramicon{
+    width: 2rem;
+    height:1.5rem;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+  }
+  .helpcentericon{
+    display: flex;
+    padding-top: 1rem;
+    margin-left:2rem ;
+  }
+  .messageicon{
+    display: flex;
+    padding-top: 1rem;
+    margin-left:3rem ;
+  }
+  #messageicon{
+    width: 3rem;
+    height: 3rem;
+    margin-left: 1rem;
+  }
+  .icons{
+    display: flex;
+  }
+  #talk{
+    color: rgb(160, 157, 157);
+  }
+  #maxicon{
+    width: 6rem;
+    height: 6rem;
+  }
+  .lastfooter{
+    display: flex;
+  }
+  .copyrights{
+    padding-top: 2rem;
+    margin-left: 2rem;
+    color: rgb(160, 157, 157);
+  }
